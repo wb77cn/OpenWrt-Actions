@@ -16,11 +16,6 @@
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
-# Clash插件
-git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
-#PassWall插件
-git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
-
 #强制关机插件
 git clone https://github.com/esirplayground/luci-app-poweroff package/luci-app-poweroff
 

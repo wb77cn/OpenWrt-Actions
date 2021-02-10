@@ -4,3 +4,10 @@
 <br>管理IP：192.168.2.222</br>
 <br>默认密码：无  </br>
 
+++++
+X86-64 vmdk格式
+passwall
+openclash
+docker
+
+++++
